@@ -51,7 +51,7 @@ Before starting, ensure you have:
 1. Open your terminal (or PowerShell).
 2. Make sure you are inside the project folder:
    ```bash
-   cd "C:\Users\OJAS\Desktop\GRUV work\reddit_monitor"
+   cd "reddit_monitor"
    ```
 3. Run the development command:
    ```bash
